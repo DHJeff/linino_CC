@@ -955,7 +955,7 @@ ar71xx_board_detect() {
 	*"Linino Lei")
 		name="linino-lei"
 		;;
-	*"Arduino Tian")
+	*"Whatsnext Violet")
 		name="linino-tian"
 		;;
 	*"Arduino Yun-Mini")
